@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Build outputs
+*.pdf
+
+# Uncomment the next line if you DO NOT want to ship the synthetic CSVs
+# data/*.csv
+
+.virtual_documents/
+
+anaconda_projects/
